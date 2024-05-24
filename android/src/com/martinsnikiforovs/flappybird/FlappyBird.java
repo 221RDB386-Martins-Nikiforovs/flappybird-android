@@ -1,7 +1,7 @@
 // Mārtiņš Nikiforovs 221RDB386 8.grupa
 package com.martinsnikiforovs.flappybird;
 
-//   Šīs speles projekta GitHub repo. saite
+//   Šīs speles projekta GitHub repo. saite  https://github.com/221RDB386-Martins-Nikiforovs/flappybird-android/tree/master
 
 
 
